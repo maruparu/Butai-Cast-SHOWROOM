@@ -5,7 +5,7 @@ Building on Showroom Live Watcher from @wlerin, these are the additional scripts
 Requirement : https://github.com/wlerin/showroom
 
 ### How to use?
-If you have no interested in archieving AKB48 SHOWROOM, you can simply delete all the .jdex file in the old "index" folder.
+If you have no interested in archiving AKB48 SHOWROOM, you can simply delete all the .jdex file in the old "index" folder.
 Then you can select the SHOWROOM that you want to archive from this repository and place it in "index" folder instead.
 
 
